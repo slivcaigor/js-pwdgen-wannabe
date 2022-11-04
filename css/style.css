@@ -4,20 +4,14 @@
   box-sizing: border-box;
 }
 
-
 body {
   text-align: center;
-  background-color: gray;
+  background-color: burlywood;
 }
 
 h1 {
   color: white;
-  margin: 50px 0 20px;
-}
-
-h2 {
-  color: white;
-  margin: 20px 0;
+  margin: 40vh 0 20px;
 }
 
 button {
